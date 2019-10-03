@@ -1,0 +1,27 @@
+.carousel-caption {
+    color: black;
+}
+.form-pendaftaran{
+    background-color: black;
+    padding: 40px ;
+    width: 100%;
+    color: white;
+    border-top: 2px solid blue;
+}
+.navbar-nav{
+    color: white;
+}
+.pom{
+    background: grey;
+    color: white;
+}
+.jumbotron{
+    text-align: center;
+}
+.kaki{
+    color: black;
+}
+
+
+
+
